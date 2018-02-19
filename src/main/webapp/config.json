@@ -1,0 +1,15 @@
+{
+    "displayName": "Auto_seUnLGboFi",
+    "group": "",
+    "templateUrl": "/pages/Main/Main.html",
+    "controllerUrl": "/pages/Main/Main.js",
+    "variablesUrl": "/pages/Main/Main.variables.json",
+    "iconUrl": "/resources/images/imagelists/prefab-icon.png",
+    "resources": {
+        "styles": [
+            "/pages/Main/Main.css"
+        ],
+        "scripts": []
+    },
+    "properties": {}
+}
